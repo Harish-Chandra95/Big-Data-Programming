@@ -1,0 +1,1 @@
+[error] sbt.librarymanagement.ResolveException: unresolved dependency: com.databricks# spark-csv_2.10_2.11;1.5.0: not found
